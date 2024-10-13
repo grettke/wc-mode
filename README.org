@@ -32,7 +32,7 @@
   There are a few settings that may be customized to provide better
   functionality for you.
 
-** Modline string
+** Modeline string
 
    The default string displayed in the mode line can be changed to
    suit your needs. It can be defined through the variable
